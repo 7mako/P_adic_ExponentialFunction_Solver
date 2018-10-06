@@ -1,2 +1,3 @@
 # P_adic_ExponentialFunction_Solver
-codes that calculates exponential functions
+Solve a^{a/d} \equiv h^{h/d} \mod{p^e}
+
