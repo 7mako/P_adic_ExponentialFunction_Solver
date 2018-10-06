@@ -1,0 +1,2 @@
+# P_adic_ExponentialFunction_Solver
+codes that calculates exponential functions
